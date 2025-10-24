@@ -1,2 +1,2 @@
 # PhD-HW
-For Homework Codes only
+For Homeworks only
